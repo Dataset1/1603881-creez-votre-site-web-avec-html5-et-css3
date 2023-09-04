@@ -5,8 +5,9 @@ body {
 }
 
 a {
-  color: black;
+  color: #242424;
   text-decoration: none;
+
 }
 
 em {
@@ -19,7 +20,13 @@ h1 {
   color: #a5b4fc;
   font-family: 'Montserrat', sans-serif;
 }
-
+body{
+  background:#1F2039;
+}
 p {
   font-size: 1.1em;
+  color:#F9F8FF;
+}
+.fond-logo{
+    background:white;
 }
