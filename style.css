@@ -35,10 +35,20 @@ li {
   background-color: white;
 }
 
+.entete img:hover,
+.entete a:hover,
+.pied-de-page img:hover,
+.pied-de-page a:hover{
+  opacity:0.5;
+}
+
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
   border-radius: 50px;
+}
+.cta:hover{
+  background:linear-gradient(180deg,#696484,#8788BA);
 }
 
 .carre-contenu {
