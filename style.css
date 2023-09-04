@@ -20,13 +20,28 @@ h1 {
   color: #a5b4fc;
   font-family: 'Montserrat', sans-serif;
 }
+
 body{
   background:#1F2039;
 }
-p {
+h2,p {
+  font-size: 1.1em;
+  color:#F9F8FF;
+}
+ul{
   font-size: 1.1em;
   color:#F9F8FF;
 }
 .fond-logo{
     background:white;
+}
+.lienDegrade{
+  background: linear-gradient(180deg,#8E86B5,#ACAEED);
+  border-radius:50px;
+  width:200px;
+  padding:20px;
+}
+.bordure{
+  border-right:1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
 }
